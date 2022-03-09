@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+
+.container-fluid {
+    background:url("../img/pozadina_2.png")  no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#heading,
+#heading0 {
+    color: #ffffff
+}
+
+.card {
+    
+    padding-top: 0px;
+    cursor: pointer
+}
+
+.card-name:hover {
+    color: #424242
+}
+
+
+    
+
+#card1 {
+    border-top: 6px solid #00ffea !important;
+    transition: 0.5s;
+    background: url("../img/team/mercedes.png");
+    background-position: center;
+    
+    
+    
+    
+    
+}
+
+#card1:hover {
+    box-shadow: 0 0 4px 4px #00ffea;
+    transition: 0.5s
+}
+
+#card2 {
+    border-top: 6px solid #0630bb !important;
+    transition: 0.5s;
+    
+    background-position: center;
+    
+}
+
+#card2:hover {
+    box-shadow: 0 0 4px 4px #0630bb;
+    transition: 0.5s
+}
+
+#card3 {
+    border-top: 6px solid #da180a !important;
+    transition: 0.5s
+}
+
+#card3:hover {
+    box-shadow: 0 0 4px 4px #da180a;
+    transition: 0.5s
+}
+
+#card4 {
+    border-top: 6px solid #f5a004 !important;
+    transition: 0.5s
+}
+
+#card4:hover {
+    box-shadow: 0 0 4px 4px #f5a004;
+    transition: 0.5s
+}
+#card5 {
+    border-top: 6px solid #0575d1 !important;
+    transition: 0.5s
+}
+
+#card5:hover {
+    box-shadow: 0 0 4px 4px #0575d1 ;
+    transition: 0.5s
+}
+#card6 {
+    border-top: 6px solid #3c5261 !important;
+    transition: 0.5s
+}
+
+#card6:hover {
+    box-shadow: 0 0 4px 4px #3c5261;
+    transition: 0.5s
+}
+#card7 {
+    border-top: 6px solid #096600 !important;
+    transition: 0.5s
+}
+
+#card7:hover {
+    box-shadow: 0 0 4px 4px #096600;
+    transition: 0.5s
+}
+#card8 {
+    border-top: 6px solid #8f2715 !important;
+    transition: 0.5s
+}
+
+#card8:hover {
+    box-shadow: 0 0 4px 4px #8f2715;
+    transition: 0.5s
+}
+#card9 {
+    border-top: 6px solid #04a0fa !important;
+    transition: 0.5s
+}
+
+#card9:hover {
+    box-shadow: 0 0 4px 4px #04a0fa;
+    transition: 0.5s
+}
+#card10 {
+    border-top: 6px solid #ececec !important;
+    transition: 0.5s
+}
+
+#card10:hover {
+    box-shadow: 0 0 4px 4px #ececec;
+    transition: 0.5s
+}
+.hex-img {
+   border: white;
+}
+
+
+
+svg {
+    height: 200px;
+    width: 240px
+}
+.user-info {
+    position: absolute;
+      bottom: 0;
+      left: 0;
+      background-color: #FFF;
+      height: 100px;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 10px;
+    text-align: center
+  }
+  
+  .user-info > h2 {
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .user-info > span {
+    color: #262626;
+    font-size: 16px;
+  }
+  
